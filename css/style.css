@@ -1,0 +1,41 @@
+div {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#jaune {
+    background-color: yellow;
+}
+
+#bleu {
+    background-color: blue;
+}
+
+#vert {
+    background-color: green;
+}
+
+#rouge {
+    background-color: red;
+}
+
+.c {
+    display: flex;
+    height: 200px;
+    width: 100vw;
+    justify-content: center;
+}
